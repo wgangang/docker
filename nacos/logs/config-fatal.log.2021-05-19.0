@@ -1,0 +1,6 @@
+2021-05-19 17:20:18,216 WARN [master-db] jdbc:mysql://139.196.44.175:3306/nacos?characterEncoding=utf8&connectTimeout=1000&socketTimeou
+
+2021-05-19 17:20:21,702 WARN isQuickStart:false
+
+2021-05-19 17:24:08,921 ERROR [db-error] master db 139.196.44.175 down.
+

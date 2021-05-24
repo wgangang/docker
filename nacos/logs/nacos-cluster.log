@@ -1,0 +1,6 @@
+2021-05-19 17:20:18,691 INFO Current addressing mode selection : FileConfigMemberLookup
+
+2021-05-19 17:20:21,938 WARN [ClusterRpcClientProxy] success to refresh cluster rpc client on start up,members =[] 
+
+2021-05-19 17:20:25,411 INFO This node is ready to provide external services
+

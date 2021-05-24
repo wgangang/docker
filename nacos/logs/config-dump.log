@@ -1,0 +1,344 @@
+2021-05-20 09:13:44,572 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-gateway+DEFAULT_GROUP+dev, md5=06bc72b47670719572abccd6ca53a54e, lastModifiedOld=1620714949000, lastModifiedNew=1620714949000
+
+2021-05-20 09:13:44,585 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1620714949000, length=2433, md5=06bc72b47670719572abccd6ca53a54e
+
+2021-05-20 09:13:44,593 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-gateway+DEFAULT_GROUP+test, md5=f7dac6bbd462bbb90c6e1febdd116925, lastModifiedOld=1620678022000, lastModifiedNew=1620678022000
+
+2021-05-20 09:13:44,595 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1620678022000, length=2808, md5=f7dac6bbd462bbb90c6e1febdd116925
+
+2021-05-20 09:13:44,600 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplychain+DEFAULT_GROUP+dev, md5=5d533ee2ee4385a30a752e0ddffcc342, lastModifiedOld=1619357537000, lastModifiedNew=1619357537000
+
+2021-05-20 09:13:44,602 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1619357537000, length=1119, md5=5d533ee2ee4385a30a752e0ddffcc342
+
+2021-05-20 09:13:44,622 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplier+DEFAULT_GROUP+dev, md5=0cfcb05dc61c314e40958cf1f04e2197, lastModifiedOld=1620728857000, lastModifiedNew=1620728857000
+
+2021-05-20 09:13:44,625 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1620728857000, length=1223, md5=0cfcb05dc61c314e40958cf1f04e2197
+
+2021-05-20 09:13:44,628 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-usercenter+DEFAULT_GROUP+dev, md5=9515fa5e1e7c1b39b0599b21c3b5e209, lastModifiedOld=1612187959000, lastModifiedNew=1612187959000
+
+2021-05-20 09:13:44,630 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1612187959000, length=1033, md5=9515fa5e1e7c1b39b0599b21c3b5e209
+
+2021-05-20 09:13:44,633 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer+DEFAULT_GROUP+dev, md5=bcd5d345ede997587382aba0fa320e7b, lastModifiedOld=1611910611000, lastModifiedNew=1611910611000
+
+2021-05-20 09:13:44,635 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1611910611000, length=1117, md5=bcd5d345ede997587382aba0fa320e7b
+
+2021-05-20 09:13:44,641 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-auth+DEFAULT_GROUP+dev, md5=63c60ac077501da49b1e4f5e738cce9c, lastModifiedOld=1616422020000, lastModifiedNew=1616422020000
+
+2021-05-20 09:13:44,642 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616422020000, length=1333, md5=63c60ac077501da49b1e4f5e738cce9c
+
+2021-05-20 09:13:44,645 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-config.yaml+DEFAULT_GROUP+dev, md5=5d7b8be73fcc65e891eff6f2366836ca, lastModifiedOld=1620981323000, lastModifiedNew=1620981323000
+
+2021-05-20 09:13:44,648 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1620981323000, length=2038, md5=5d7b8be73fcc65e891eff6f2366836ca
+
+2021-05-20 09:13:44,653 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-filecenter+DEFAULT_GROUP+dev, md5=ba27cdf11cab47887efc3a97eecc0ee9, lastModifiedOld=1611058271000, lastModifiedNew=1611058271000
+
+2021-05-20 09:13:44,654 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1611058271000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-20 09:13:44,656 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-usercenter+DEFAULT_GROUP+test, md5=02b102f31fa26ffd2aad727e81651988, lastModifiedOld=1616136575000, lastModifiedNew=1616136575000
+
+2021-05-20 09:13:44,658 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1616136575000, length=1032, md5=02b102f31fa26ffd2aad727e81651988
+
+2021-05-20 09:13:44,668 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer+DEFAULT_GROUP+test, md5=e0f3e764295ea4d644457d9fa3ceb41c, lastModifiedOld=1616136591000, lastModifiedNew=1616136591000
+
+2021-05-20 09:13:44,669 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1616136591000, length=1119, md5=e0f3e764295ea4d644457d9fa3ceb41c
+
+2021-05-20 09:13:44,674 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplier+DEFAULT_GROUP+test, md5=2bdd9d2a196168b12ab298dd02480092, lastModifiedOld=1616136605000, lastModifiedNew=1616136605000
+
+2021-05-20 09:13:44,676 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1616136605000, length=1224, md5=2bdd9d2a196168b12ab298dd02480092
+
+2021-05-20 09:13:44,681 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplychain+DEFAULT_GROUP+test, md5=179faa47e18c47bd74db04090d909cff, lastModifiedOld=1619599422000, lastModifiedNew=1619599422000
+
+2021-05-20 09:13:44,682 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1619599422000, length=1171, md5=179faa47e18c47bd74db04090d909cff
+
+2021-05-20 09:13:44,690 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-auth+DEFAULT_GROUP+test, md5=4b101bb4ed2e72fc104d0ef002fbde69, lastModifiedOld=1616481512000, lastModifiedNew=1616481512000
+
+2021-05-20 09:13:44,691 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616481512000, length=1274, md5=4b101bb4ed2e72fc104d0ef002fbde69
+
+2021-05-20 09:13:44,699 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-filecenter+DEFAULT_GROUP+test, md5=ba27cdf11cab47887efc3a97eecc0ee9, lastModifiedOld=1611058496000, lastModifiedNew=1611058496000
+
+2021-05-20 09:13:44,701 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1611058496000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-20 09:13:44,708 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-config.yaml+DEFAULT_GROUP+test, md5=192fdc3c053ee0c7a41b712233876a85, lastModifiedOld=1620996505000, lastModifiedNew=1620996505000
+
+2021-05-20 09:13:44,709 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1620996505000, length=1792, md5=192fdc3c053ee0c7a41b712233876a85
+
+2021-05-20 09:13:44,714 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-mall-goods+DEFAULT_GROUP+dev, md5=9384c34119fa888249c64e74cf257d82, lastModifiedOld=1611069816000, lastModifiedNew=1611069816000
+
+2021-05-20 09:13:44,715 INFO [dump-all-ok] billbear-mall-goods+DEFAULT_GROUP, 1611069816000, length=1216, md5=9384c34119fa888249c64e74cf257d82
+
+2021-05-20 09:13:44,722 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-config.yaml+DEFAULT_GROUP+prod, md5=f945cb28cb3616b5131f47bc84aa811f, lastModifiedOld=1618571516000, lastModifiedNew=1618571516000
+
+2021-05-20 09:13:44,724 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1618571516000, length=1941, md5=f945cb28cb3616b5131f47bc84aa811f
+
+2021-05-20 09:13:44,726 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-merchant+DEFAULT_GROUP+dev, md5=e1b739b8a92a50da2c54b4fe89ff77bf, lastModifiedOld=1612517017000, lastModifiedNew=1612517017000
+
+2021-05-20 09:13:44,728 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1612517017000, length=1772, md5=e1b739b8a92a50da2c54b4fe89ff77bf
+
+2021-05-20 09:13:44,732 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-admin+DEFAULT_GROUP+dev, md5=8654922af8107e201de116d628e9578f, lastModifiedOld=1614692485000, lastModifiedNew=1614692485000
+
+2021-05-20 09:13:44,734 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1614692485000, length=1643, md5=8654922af8107e201de116d628e9578f
+
+2021-05-20 09:13:44,735 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-merchant+DEFAULT_GROUP+test, md5=e5a7b23fa4fbfe036959cfd55a09f7af, lastModifiedOld=1616136634000, lastModifiedNew=1616136634000
+
+2021-05-20 09:13:44,736 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1616136634000, length=1772, md5=e5a7b23fa4fbfe036959cfd55a09f7af
+
+2021-05-20 09:13:44,737 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-admin+DEFAULT_GROUP+test, md5=bca039eeb51e046ff8720f4fc3b18903, lastModifiedOld=1616136648000, lastModifiedNew=1616136648000
+
+2021-05-20 09:13:44,738 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1616136648000, length=1836, md5=bca039eeb51e046ff8720f4fc3b18903
+
+2021-05-20 09:13:44,740 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-gateway+DEFAULT_GROUP+prod, md5=32ba22b26609c324118772ae4ec549e4, lastModifiedOld=1616191128000, lastModifiedNew=1616191128000
+
+2021-05-20 09:13:44,741 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1616191128000, length=1617, md5=32ba22b26609c324118772ae4ec549e4
+
+2021-05-20 09:13:44,742 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-usercenter+DEFAULT_GROUP+prod, md5=ba9ab8fc03b695a7580ded503b6efc92, lastModifiedOld=1616167243000, lastModifiedNew=1616167243000
+
+2021-05-20 09:13:44,743 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1616167243000, length=1099, md5=ba9ab8fc03b695a7580ded503b6efc92
+
+2021-05-20 09:13:44,744 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer+DEFAULT_GROUP+prod, md5=7cea177c596a5a1a5cb2dc0f13730130, lastModifiedOld=1616163120000, lastModifiedNew=1616163120000
+
+2021-05-20 09:13:44,745 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1616163120000, length=1105, md5=7cea177c596a5a1a5cb2dc0f13730130
+
+2021-05-20 09:13:44,746 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplier+DEFAULT_GROUP+prod, md5=1293fb08112ea861e9045069bd62af94, lastModifiedOld=1616163150000, lastModifiedNew=1616163150000
+
+2021-05-20 09:13:44,747 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1616163150000, length=1297, md5=1293fb08112ea861e9045069bd62af94
+
+2021-05-20 09:13:44,749 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplychain+DEFAULT_GROUP+prod, md5=2a1438a73491828e205c0c1a627b6a7f, lastModifiedOld=1616180618000, lastModifiedNew=1616180618000
+
+2021-05-20 09:13:44,750 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1616180618000, length=1203, md5=2a1438a73491828e205c0c1a627b6a7f
+
+2021-05-20 09:13:44,751 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-auth+DEFAULT_GROUP+prod, md5=de58033b80cac20bea2234f164be4eb1, lastModifiedOld=1616425020000, lastModifiedNew=1616425020000
+
+2021-05-20 09:13:44,752 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616425020000, length=1335, md5=de58033b80cac20bea2234f164be4eb1
+
+2021-05-20 09:13:44,753 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-filecenter+DEFAULT_GROUP+prod, md5=ba27cdf11cab47887efc3a97eecc0ee9, lastModifiedOld=1615538144000, lastModifiedNew=1615538144000
+
+2021-05-20 09:13:44,755 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1615538144000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-20 09:13:44,756 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-coupon+DEFAULT_GROUP+test, md5=b0067331e7f59003a91ad0e9e3ce4221, lastModifiedOld=1618237799000, lastModifiedNew=1618237799000
+
+2021-05-20 09:13:44,758 INFO [dump-all-ok] billbear-coupon+DEFAULT_GROUP, 1618237799000, length=1149, md5=b0067331e7f59003a91ad0e9e3ce4221
+
+2021-05-20 09:13:44,759 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-merchant+DEFAULT_GROUP+prod, md5=feb8af6f3bed90060a7c86f8b8546ca7, lastModifiedOld=1616514096000, lastModifiedNew=1616514096000
+
+2021-05-20 09:13:44,761 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1616514096000, length=1812, md5=feb8af6f3bed90060a7c86f8b8546ca7
+
+2021-05-20 09:13:44,762 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-admin+DEFAULT_GROUP+prod, md5=a30eaab39db1f5a6c2d7a5b2c71a0e85, lastModifiedOld=1616514109000, lastModifiedNew=1616514109000
+
+2021-05-20 09:13:44,763 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1616514109000, length=1876, md5=a30eaab39db1f5a6c2d7a5b2c71a0e85
+
+2021-05-20 09:13:44,764 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-coupon+DEFAULT_GROUP+dev, md5=b0067331e7f59003a91ad0e9e3ce4221, lastModifiedOld=1618237821000, lastModifiedNew=1618237821000
+
+2021-05-20 09:13:44,766 INFO [dump-all-ok] billbear-coupon+DEFAULT_GROUP, 1618237821000, length=1149, md5=b0067331e7f59003a91ad0e9e3ce4221
+
+2021-05-20 09:13:44,767 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-order+DEFAULT_GROUP+dev, md5=565039f150607a123ea5c7f871064ea7, lastModifiedOld=1617026628000, lastModifiedNew=1617026628000
+
+2021-05-20 09:13:44,769 INFO [dump-all-ok] billbear-order+DEFAULT_GROUP, 1617026628000, length=1030, md5=565039f150607a123ea5c7f871064ea7
+
+2021-05-20 09:13:44,771 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer-web+DEFAULT_GROUP+test, md5=c2468d674e940ee1e4b0e0345c4146ce, lastModifiedOld=1621233315000, lastModifiedNew=1621233315000
+
+2021-05-20 09:13:44,772 INFO [dump-all-ok] billbear-customer-web+DEFAULT_GROUP, 1621233315000, length=1453, md5=c2468d674e940ee1e4b0e0345c4146ce
+
+2021-05-20 09:13:44,774 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer-web+DEFAULT_GROUP+dev, md5=0d955b8a146d38a0a20b6e3207daa625, lastModifiedOld=1621247481000, lastModifiedNew=1621247481000
+
+2021-05-20 09:13:44,776 INFO [dump-all-ok] billbear-customer-web+DEFAULT_GROUP, 1621247481000, length=1453, md5=0d955b8a146d38a0a20b6e3207daa625
+
+2021-05-20 09:13:44,778 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-paycenter+DEFAULT_GROUP+test, md5=8ea16a1d5e6874eadb524527aeb30ccf, lastModifiedOld=1620650991000, lastModifiedNew=1620650991000
+
+2021-05-20 09:13:44,779 INFO [dump-all-ok] billbear-paycenter+DEFAULT_GROUP, 1620650991000, length=1123, md5=8ea16a1d5e6874eadb524527aeb30ccf
+
+2021-05-20 09:13:44,781 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-paycenter+DEFAULT_GROUP+dev, md5=7048cf66db584b1cc42fcbb7c9692f5d, lastModifiedOld=1620651113000, lastModifiedNew=1620651113000
+
+2021-05-20 09:13:44,783 INFO [dump-all-ok] billbear-paycenter+DEFAULT_GROUP, 1620651113000, length=1123, md5=7048cf66db584b1cc42fcbb7c9692f5d
+
+2021-05-20 09:13:44,784 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-app-gateway+DEFAULT_GROUP+dev, md5=65b61a7d90b971ebaef58015c3ecb256, lastModifiedOld=1620714966000, lastModifiedNew=1620714966000
+
+2021-05-20 09:13:44,786 INFO [dump-all-ok] billbear-app-gateway+DEFAULT_GROUP, 1620714966000, length=1622, md5=65b61a7d90b971ebaef58015c3ecb256
+
+2021-05-20 09:13:44,788 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-app-gateway+DEFAULT_GROUP+test, md5=00fd1d0abeb71268e1dcde4efe122d39, lastModifiedOld=1620833300000, lastModifiedNew=1620833300000
+
+2021-05-20 09:13:44,790 INFO [dump-all-ok] billbear-app-gateway+DEFAULT_GROUP, 1620833300000, length=2161, md5=00fd1d0abeb71268e1dcde4efe122d39
+
+2021-05-20 09:13:44,792 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-authcenter+DEFAULT_GROUP+dev, md5=aa0ae9846f8784c76a04061f8bbff426, lastModifiedOld=1619689881000, lastModifiedNew=1619689881000
+
+2021-05-20 09:13:44,793 INFO [dump-all-ok] billbear-authcenter+DEFAULT_GROUP, 1619689881000, length=493, md5=aa0ae9846f8784c76a04061f8bbff426
+
+2021-05-20 09:13:44,795 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-authcenter+DEFAULT_GROUP+test, md5=e4cb9eaf5e4662657ebe1dc185d5bcda, lastModifiedOld=1620316075000, lastModifiedNew=1620316075000
+
+2021-05-20 09:13:44,796 INFO [dump-all-ok] billbear-authcenter+DEFAULT_GROUP, 1620316075000, length=474, md5=e4cb9eaf5e4662657ebe1dc185d5bcda
+
+2021-05-20 09:13:44,797 WARN [dump-ignore] ignore to save cache file. groupKey=xxl-job-admin+DEFAULT_GROUP+dev, md5=29b40c917cacea1c72e941e67e06af8d, lastModifiedOld=1620922103000, lastModifiedNew=1620922103000
+
+2021-05-20 09:13:44,799 INFO [dump-all-ok] xxl-job-admin+DEFAULT_GROUP, 1620922103000, length=2200, md5=29b40c917cacea1c72e941e67e06af8d
+
+2021-05-20 18:02:34,874 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-gateway+DEFAULT_GROUP+dev, md5=06bc72b47670719572abccd6ca53a54e, lastModifiedOld=1620714949000, lastModifiedNew=1620714949000
+
+2021-05-20 18:02:34,881 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1620714949000, length=2433, md5=06bc72b47670719572abccd6ca53a54e
+
+2021-05-20 18:02:34,883 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-gateway+DEFAULT_GROUP+test, md5=f7dac6bbd462bbb90c6e1febdd116925, lastModifiedOld=1620678022000, lastModifiedNew=1620678022000
+
+2021-05-20 18:02:34,886 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1620678022000, length=2808, md5=f7dac6bbd462bbb90c6e1febdd116925
+
+2021-05-20 18:02:34,887 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplychain+DEFAULT_GROUP+dev, md5=5d533ee2ee4385a30a752e0ddffcc342, lastModifiedOld=1619357537000, lastModifiedNew=1619357537000
+
+2021-05-20 18:02:34,889 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1619357537000, length=1119, md5=5d533ee2ee4385a30a752e0ddffcc342
+
+2021-05-20 18:02:34,891 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplier+DEFAULT_GROUP+dev, md5=0cfcb05dc61c314e40958cf1f04e2197, lastModifiedOld=1620728857000, lastModifiedNew=1620728857000
+
+2021-05-20 18:02:34,892 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1620728857000, length=1223, md5=0cfcb05dc61c314e40958cf1f04e2197
+
+2021-05-20 18:02:34,893 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-usercenter+DEFAULT_GROUP+dev, md5=9515fa5e1e7c1b39b0599b21c3b5e209, lastModifiedOld=1612187959000, lastModifiedNew=1612187959000
+
+2021-05-20 18:02:34,894 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1612187959000, length=1033, md5=9515fa5e1e7c1b39b0599b21c3b5e209
+
+2021-05-20 18:02:34,896 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer+DEFAULT_GROUP+dev, md5=bcd5d345ede997587382aba0fa320e7b, lastModifiedOld=1611910611000, lastModifiedNew=1611910611000
+
+2021-05-20 18:02:34,897 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1611910611000, length=1117, md5=bcd5d345ede997587382aba0fa320e7b
+
+2021-05-20 18:02:34,898 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-auth+DEFAULT_GROUP+dev, md5=63c60ac077501da49b1e4f5e738cce9c, lastModifiedOld=1616422020000, lastModifiedNew=1616422020000
+
+2021-05-20 18:02:34,898 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616422020000, length=1333, md5=63c60ac077501da49b1e4f5e738cce9c
+
+2021-05-20 18:02:34,899 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-config.yaml+DEFAULT_GROUP+dev, md5=5d7b8be73fcc65e891eff6f2366836ca, lastModifiedOld=1620981323000, lastModifiedNew=1620981323000
+
+2021-05-20 18:02:34,901 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1620981323000, length=2038, md5=5d7b8be73fcc65e891eff6f2366836ca
+
+2021-05-20 18:02:34,903 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-filecenter+DEFAULT_GROUP+dev, md5=ba27cdf11cab47887efc3a97eecc0ee9, lastModifiedOld=1611058271000, lastModifiedNew=1611058271000
+
+2021-05-20 18:02:34,904 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1611058271000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-20 18:02:34,904 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-usercenter+DEFAULT_GROUP+test, md5=02b102f31fa26ffd2aad727e81651988, lastModifiedOld=1616136575000, lastModifiedNew=1616136575000
+
+2021-05-20 18:02:34,905 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1616136575000, length=1032, md5=02b102f31fa26ffd2aad727e81651988
+
+2021-05-20 18:02:34,906 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer+DEFAULT_GROUP+test, md5=e0f3e764295ea4d644457d9fa3ceb41c, lastModifiedOld=1616136591000, lastModifiedNew=1616136591000
+
+2021-05-20 18:02:34,906 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1616136591000, length=1119, md5=e0f3e764295ea4d644457d9fa3ceb41c
+
+2021-05-20 18:02:34,907 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplier+DEFAULT_GROUP+test, md5=2bdd9d2a196168b12ab298dd02480092, lastModifiedOld=1616136605000, lastModifiedNew=1616136605000
+
+2021-05-20 18:02:34,908 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1616136605000, length=1224, md5=2bdd9d2a196168b12ab298dd02480092
+
+2021-05-20 18:02:34,908 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplychain+DEFAULT_GROUP+test, md5=179faa47e18c47bd74db04090d909cff, lastModifiedOld=1619599422000, lastModifiedNew=1619599422000
+
+2021-05-20 18:02:34,909 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1619599422000, length=1171, md5=179faa47e18c47bd74db04090d909cff
+
+2021-05-20 18:02:34,909 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-auth+DEFAULT_GROUP+test, md5=4b101bb4ed2e72fc104d0ef002fbde69, lastModifiedOld=1616481512000, lastModifiedNew=1616481512000
+
+2021-05-20 18:02:34,910 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616481512000, length=1274, md5=4b101bb4ed2e72fc104d0ef002fbde69
+
+2021-05-20 18:02:34,911 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-filecenter+DEFAULT_GROUP+test, md5=ba27cdf11cab47887efc3a97eecc0ee9, lastModifiedOld=1611058496000, lastModifiedNew=1611058496000
+
+2021-05-20 18:02:34,911 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1611058496000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-20 18:02:34,912 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-config.yaml+DEFAULT_GROUP+test, md5=192fdc3c053ee0c7a41b712233876a85, lastModifiedOld=1620996505000, lastModifiedNew=1620996505000
+
+2021-05-20 18:02:34,913 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1620996505000, length=1792, md5=192fdc3c053ee0c7a41b712233876a85
+
+2021-05-20 18:02:34,914 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-mall-goods+DEFAULT_GROUP+dev, md5=9384c34119fa888249c64e74cf257d82, lastModifiedOld=1611069816000, lastModifiedNew=1611069816000
+
+2021-05-20 18:02:34,914 INFO [dump-all-ok] billbear-mall-goods+DEFAULT_GROUP, 1611069816000, length=1216, md5=9384c34119fa888249c64e74cf257d82
+
+2021-05-20 18:02:34,915 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-config.yaml+DEFAULT_GROUP+prod, md5=f945cb28cb3616b5131f47bc84aa811f, lastModifiedOld=1618571516000, lastModifiedNew=1618571516000
+
+2021-05-20 18:02:34,916 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1618571516000, length=1941, md5=f945cb28cb3616b5131f47bc84aa811f
+
+2021-05-20 18:02:34,916 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-merchant+DEFAULT_GROUP+dev, md5=e1b739b8a92a50da2c54b4fe89ff77bf, lastModifiedOld=1612517017000, lastModifiedNew=1612517017000
+
+2021-05-20 18:02:34,917 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1612517017000, length=1772, md5=e1b739b8a92a50da2c54b4fe89ff77bf
+
+2021-05-20 18:02:34,917 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-admin+DEFAULT_GROUP+dev, md5=8654922af8107e201de116d628e9578f, lastModifiedOld=1614692485000, lastModifiedNew=1614692485000
+
+2021-05-20 18:02:34,918 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1614692485000, length=1643, md5=8654922af8107e201de116d628e9578f
+
+2021-05-20 18:02:34,919 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-merchant+DEFAULT_GROUP+test, md5=e5a7b23fa4fbfe036959cfd55a09f7af, lastModifiedOld=1616136634000, lastModifiedNew=1616136634000
+
+2021-05-20 18:02:34,919 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1616136634000, length=1772, md5=e5a7b23fa4fbfe036959cfd55a09f7af
+
+2021-05-20 18:02:34,920 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-admin+DEFAULT_GROUP+test, md5=bca039eeb51e046ff8720f4fc3b18903, lastModifiedOld=1616136648000, lastModifiedNew=1616136648000
+
+2021-05-20 18:02:34,920 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1616136648000, length=1836, md5=bca039eeb51e046ff8720f4fc3b18903
+
+2021-05-20 18:02:34,921 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-common-gateway+DEFAULT_GROUP+prod, md5=32ba22b26609c324118772ae4ec549e4, lastModifiedOld=1616191128000, lastModifiedNew=1616191128000
+
+2021-05-20 18:02:34,921 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1616191128000, length=1617, md5=32ba22b26609c324118772ae4ec549e4
+
+2021-05-20 18:02:34,922 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-usercenter+DEFAULT_GROUP+prod, md5=ba9ab8fc03b695a7580ded503b6efc92, lastModifiedOld=1616167243000, lastModifiedNew=1616167243000
+
+2021-05-20 18:02:34,923 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1616167243000, length=1099, md5=ba9ab8fc03b695a7580ded503b6efc92
+
+2021-05-20 18:02:34,923 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer+DEFAULT_GROUP+prod, md5=7cea177c596a5a1a5cb2dc0f13730130, lastModifiedOld=1616163120000, lastModifiedNew=1616163120000
+
+2021-05-20 18:02:34,924 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1616163120000, length=1105, md5=7cea177c596a5a1a5cb2dc0f13730130
+
+2021-05-20 18:02:34,924 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplier+DEFAULT_GROUP+prod, md5=1293fb08112ea861e9045069bd62af94, lastModifiedOld=1616163150000, lastModifiedNew=1616163150000
+
+2021-05-20 18:02:34,925 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1616163150000, length=1297, md5=1293fb08112ea861e9045069bd62af94
+
+2021-05-20 18:02:34,925 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-supplychain+DEFAULT_GROUP+prod, md5=2a1438a73491828e205c0c1a627b6a7f, lastModifiedOld=1616180618000, lastModifiedNew=1616180618000
+
+2021-05-20 18:02:34,926 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1616180618000, length=1203, md5=2a1438a73491828e205c0c1a627b6a7f
+
+2021-05-20 18:02:34,927 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-auth+DEFAULT_GROUP+prod, md5=de58033b80cac20bea2234f164be4eb1, lastModifiedOld=1616425020000, lastModifiedNew=1616425020000
+
+2021-05-20 18:02:34,927 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616425020000, length=1335, md5=de58033b80cac20bea2234f164be4eb1
+
+2021-05-20 18:02:34,928 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-filecenter+DEFAULT_GROUP+prod, md5=ba27cdf11cab47887efc3a97eecc0ee9, lastModifiedOld=1615538144000, lastModifiedNew=1615538144000
+
+2021-05-20 18:02:34,928 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1615538144000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-20 18:02:34,929 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-coupon+DEFAULT_GROUP+test, md5=b0067331e7f59003a91ad0e9e3ce4221, lastModifiedOld=1618237799000, lastModifiedNew=1618237799000
+
+2021-05-20 18:02:34,929 INFO [dump-all-ok] billbear-coupon+DEFAULT_GROUP, 1618237799000, length=1149, md5=b0067331e7f59003a91ad0e9e3ce4221
+
+2021-05-20 18:02:34,930 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-merchant+DEFAULT_GROUP+prod, md5=feb8af6f3bed90060a7c86f8b8546ca7, lastModifiedOld=1616514096000, lastModifiedNew=1616514096000
+
+2021-05-20 18:02:34,930 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1616514096000, length=1812, md5=feb8af6f3bed90060a7c86f8b8546ca7
+
+2021-05-20 18:02:34,931 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-foodie-first-admin+DEFAULT_GROUP+prod, md5=a30eaab39db1f5a6c2d7a5b2c71a0e85, lastModifiedOld=1616514109000, lastModifiedNew=1616514109000
+
+2021-05-20 18:02:34,931 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1616514109000, length=1876, md5=a30eaab39db1f5a6c2d7a5b2c71a0e85
+
+2021-05-20 18:02:34,933 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-coupon+DEFAULT_GROUP+dev, md5=b0067331e7f59003a91ad0e9e3ce4221, lastModifiedOld=1618237821000, lastModifiedNew=1618237821000
+
+2021-05-20 18:02:34,933 INFO [dump-all-ok] billbear-coupon+DEFAULT_GROUP, 1618237821000, length=1149, md5=b0067331e7f59003a91ad0e9e3ce4221
+
+2021-05-20 18:02:34,934 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-order+DEFAULT_GROUP+dev, md5=565039f150607a123ea5c7f871064ea7, lastModifiedOld=1617026628000, lastModifiedNew=1617026628000
+
+2021-05-20 18:02:34,934 INFO [dump-all-ok] billbear-order+DEFAULT_GROUP, 1617026628000, length=1030, md5=565039f150607a123ea5c7f871064ea7
+
+2021-05-20 18:02:34,935 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer-web+DEFAULT_GROUP+test, md5=c2468d674e940ee1e4b0e0345c4146ce, lastModifiedOld=1621233315000, lastModifiedNew=1621233315000
+
+2021-05-20 18:02:34,935 INFO [dump-all-ok] billbear-customer-web+DEFAULT_GROUP, 1621233315000, length=1453, md5=c2468d674e940ee1e4b0e0345c4146ce
+
+2021-05-20 18:02:34,936 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-customer-web+DEFAULT_GROUP+dev, md5=0d955b8a146d38a0a20b6e3207daa625, lastModifiedOld=1621247481000, lastModifiedNew=1621247481000
+
+2021-05-20 18:02:34,936 INFO [dump-all-ok] billbear-customer-web+DEFAULT_GROUP, 1621247481000, length=1453, md5=0d955b8a146d38a0a20b6e3207daa625
+
+2021-05-20 18:02:34,937 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-paycenter+DEFAULT_GROUP+test, md5=8ea16a1d5e6874eadb524527aeb30ccf, lastModifiedOld=1620650991000, lastModifiedNew=1620650991000
+
+2021-05-20 18:02:34,937 INFO [dump-all-ok] billbear-paycenter+DEFAULT_GROUP, 1620650991000, length=1123, md5=8ea16a1d5e6874eadb524527aeb30ccf
+
+2021-05-20 18:02:34,938 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-paycenter+DEFAULT_GROUP+dev, md5=7048cf66db584b1cc42fcbb7c9692f5d, lastModifiedOld=1620651113000, lastModifiedNew=1620651113000
+
+2021-05-20 18:02:34,938 INFO [dump-all-ok] billbear-paycenter+DEFAULT_GROUP, 1620651113000, length=1123, md5=7048cf66db584b1cc42fcbb7c9692f5d
+
+2021-05-20 18:02:34,939 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-app-gateway+DEFAULT_GROUP+dev, md5=65b61a7d90b971ebaef58015c3ecb256, lastModifiedOld=1620714966000, lastModifiedNew=1620714966000
+
+2021-05-20 18:02:34,940 INFO [dump-all-ok] billbear-app-gateway+DEFAULT_GROUP, 1620714966000, length=1622, md5=65b61a7d90b971ebaef58015c3ecb256
+
+2021-05-20 18:02:34,940 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-app-gateway+DEFAULT_GROUP+test, md5=00fd1d0abeb71268e1dcde4efe122d39, lastModifiedOld=1620833300000, lastModifiedNew=1620833300000
+
+2021-05-20 18:02:34,941 INFO [dump-all-ok] billbear-app-gateway+DEFAULT_GROUP, 1620833300000, length=2161, md5=00fd1d0abeb71268e1dcde4efe122d39
+
+2021-05-20 18:02:34,941 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-authcenter+DEFAULT_GROUP+dev, md5=aa0ae9846f8784c76a04061f8bbff426, lastModifiedOld=1619689881000, lastModifiedNew=1619689881000
+
+2021-05-20 18:02:34,942 INFO [dump-all-ok] billbear-authcenter+DEFAULT_GROUP, 1619689881000, length=493, md5=aa0ae9846f8784c76a04061f8bbff426
+
+2021-05-20 18:02:34,943 WARN [dump-ignore] ignore to save cache file. groupKey=billbear-authcenter+DEFAULT_GROUP+test, md5=e4cb9eaf5e4662657ebe1dc185d5bcda, lastModifiedOld=1620316075000, lastModifiedNew=1620316075000
+
+2021-05-20 18:02:34,943 INFO [dump-all-ok] billbear-authcenter+DEFAULT_GROUP, 1620316075000, length=474, md5=e4cb9eaf5e4662657ebe1dc185d5bcda
+
+2021-05-20 18:02:34,944 WARN [dump-ignore] ignore to save cache file. groupKey=xxl-job-admin+DEFAULT_GROUP+dev, md5=29b40c917cacea1c72e941e67e06af8d, lastModifiedOld=1620922103000, lastModifiedNew=1620922103000
+
+2021-05-20 18:02:34,944 INFO [dump-all-ok] xxl-job-admin+DEFAULT_GROUP, 1620922103000, length=2200, md5=29b40c917cacea1c72e941e67e06af8d
+

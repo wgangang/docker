@@ -1,0 +1,410 @@
+2021-05-20 09:13:42,881 WARN HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=14h9m24s79ms660µs52ns).
+
+2021-05-20 09:13:41,582 WARN clearConfigHistory start
+
+2021-05-20 09:13:42,944 INFO [capacityManagement] start correct usage
+
+2021-05-20 09:13:43,804 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@4b3943a8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 09:13:43,926 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@431c9cdb (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 09:13:44,389 INFO [capacityManagement] end correct usage, cost: 2s
+
+2021-05-20 09:23:43,649 WARN clearConfigHistory start
+
+2021-05-20 09:23:43,716 INFO [capacityManagement] start correct usage
+
+2021-05-20 09:23:43,743 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 09:33:42,998 WARN clearConfigHistory start
+
+2021-05-20 09:33:43,054 INFO [capacityManagement] start correct usage
+
+2021-05-20 09:33:43,087 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 09:43:42,355 WARN clearConfigHistory start
+
+2021-05-20 09:43:42,399 INFO [capacityManagement] start correct usage
+
+2021-05-20 09:43:42,465 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 09:53:41,744 WARN clearConfigHistory start
+
+2021-05-20 09:53:41,775 INFO [capacityManagement] start correct usage
+
+2021-05-20 09:53:41,878 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 10:03:41,163 WARN clearConfigHistory start
+
+2021-05-20 10:03:41,190 INFO [capacityManagement] start correct usage
+
+2021-05-20 10:03:41,811 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 10:13:41,125 INFO [capacityManagement] start correct usage
+
+2021-05-20 10:13:41,187 WARN clearConfigHistory start
+
+2021-05-20 10:13:41,203 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 10:23:40,512 INFO [capacityManagement] start correct usage
+
+2021-05-20 10:23:40,571 WARN clearConfigHistory start
+
+2021-05-20 10:23:40,580 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 10:33:39,894 INFO [capacityManagement] start correct usage
+
+2021-05-20 10:33:39,924 WARN clearConfigHistory start
+
+2021-05-20 10:33:39,946 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 10:43:39,254 INFO [capacityManagement] start correct usage
+
+2021-05-20 10:43:39,267 WARN clearConfigHistory start
+
+2021-05-20 10:43:39,338 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 10:53:38,624 WARN clearConfigHistory start
+
+2021-05-20 10:53:38,653 INFO [capacityManagement] start correct usage
+
+2021-05-20 10:53:39,408 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 10:57:40,074 WARN HikariPool-1 - Connection com.mysql.cj.jdbc.ConnectionImpl@5a1be045 marked as broken because of SQLSTATE(null), ErrorCode(0)
+
+com.mysql.cj.jdbc.exceptions.MySQLTimeoutException: Statement cancelled due to timeout or client request
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:113)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1003)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate$1.doInPreparedStatement(JdbcTemplate.java:678)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:617)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:669)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:700)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:712)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:783)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:804)
+	at com.alibaba.nacos.config.server.service.repository.extrnal.ExternalStoragePaginationHelperImpl.fetchPage(ExternalStoragePaginationHelperImpl.java:66)
+	at com.alibaba.nacos.config.server.service.repository.extrnal.ExternalStoragePaginationHelperImpl.fetchPage(ExternalStoragePaginationHelperImpl.java:56)
+	at com.alibaba.nacos.config.server.auth.ExternalRolePersistServiceImpl.getRolesByUserName(ExternalRolePersistServiceImpl.java:101)
+	at com.alibaba.nacos.console.security.nacos.roles.NacosRoleServiceImpl.reload(NacosRoleServiceImpl.java:77)
+	at sun.reflect.GeneratedMethodAccessor137.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-20 11:03:38,357 WARN clearConfigHistory start
+
+2021-05-20 11:03:38,716 INFO [capacityManagement] start correct usage
+
+2021-05-20 11:03:38,781 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 11:13:37,706 WARN clearConfigHistory start
+
+2021-05-20 11:13:38,091 INFO [capacityManagement] start correct usage
+
+2021-05-20 11:13:38,129 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 11:23:37,058 WARN clearConfigHistory start
+
+2021-05-20 11:23:37,438 INFO [capacityManagement] start correct usage
+
+2021-05-20 11:23:37,486 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 11:29:04,304 WARN HikariPool-1 - Connection com.mysql.cj.jdbc.ConnectionImpl@6efbbf6a marked as broken because of SQLSTATE(null), ErrorCode(0)
+
+com.mysql.cj.jdbc.exceptions.MySQLTimeoutException: Statement cancelled due to timeout or client request
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:113)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1003)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate$1.doInPreparedStatement(JdbcTemplate.java:678)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:617)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:669)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:700)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:712)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:783)
+	at org.springframework.jdbc.core.JdbcTemplate.queryForObject(JdbcTemplate.java:804)
+	at com.alibaba.nacos.config.server.service.repository.extrnal.ExternalStoragePaginationHelperImpl.fetchPage(ExternalStoragePaginationHelperImpl.java:66)
+	at com.alibaba.nacos.config.server.service.repository.extrnal.ExternalStoragePaginationHelperImpl.fetchPage(ExternalStoragePaginationHelperImpl.java:56)
+	at com.alibaba.nacos.config.server.auth.ExternalPermissionPersistServiceImpl.getPermissions(ExternalPermissionPersistServiceImpl.java:73)
+	at com.alibaba.nacos.console.security.nacos.roles.NacosRoleServiceImpl.reload(NacosRoleServiceImpl.java:94)
+	at sun.reflect.GeneratedMethodAccessor137.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-20 11:30:02,115 WARN HikariPool-1 - Connection com.mysql.cj.jdbc.ConnectionImpl@17f08e6d marked as broken because of SQLSTATE(null), ErrorCode(0)
+
+com.mysql.cj.jdbc.exceptions.MySQLTimeoutException: Statement cancelled due to timeout or client request
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:113)
+	at com.mysql.cj.jdbc.StatementImpl.executeQuery(StatementImpl.java:1177)
+	at com.zaxxer.hikari.pool.ProxyStatement.executeQuery(ProxyStatement.java:111)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.executeQuery(HikariProxyStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate$1QueryStatementCallback.doInStatement(JdbcTemplate.java:439)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:376)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:452)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:462)
+	at com.alibaba.nacos.config.server.service.datasource.ExternalDataSourceServiceImpl$CheckDbHealthTask.run(ExternalDataSourceServiceImpl.java:246)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-20 11:30:02,125 WARN HikariPool-1 - Connection com.mysql.cj.jdbc.ConnectionImpl@6f284fcb marked as broken because of SQLSTATE(null), ErrorCode(0)
+
+com.mysql.cj.jdbc.exceptions.MySQLTimeoutException: Statement cancelled due to timeout or client request
+	at com.mysql.cj.jdbc.exceptions.SQLExceptionsMapping.translateException(SQLExceptionsMapping.java:113)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeInternal(ClientPreparedStatement.java:953)
+	at com.mysql.cj.jdbc.ClientPreparedStatement.executeQuery(ClientPreparedStatement.java:1003)
+	at com.zaxxer.hikari.pool.ProxyPreparedStatement.executeQuery(ProxyPreparedStatement.java:52)
+	at com.zaxxer.hikari.pool.HikariProxyPreparedStatement.executeQuery(HikariProxyPreparedStatement.java)
+	at org.springframework.jdbc.core.JdbcTemplate$1.doInPreparedStatement(JdbcTemplate.java:678)
+	at org.springframework.jdbc.core.JdbcTemplate.execute(JdbcTemplate.java:617)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:669)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:700)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:712)
+	at org.springframework.jdbc.core.JdbcTemplate.query(JdbcTemplate.java:763)
+	at com.alibaba.nacos.config.server.service.repository.extrnal.ExternalStoragePaginationHelperImpl.fetchPage(ExternalStoragePaginationHelperImpl.java:97)
+	at com.alibaba.nacos.config.server.service.repository.extrnal.ExternalStoragePaginationHelperImpl.fetchPage(ExternalStoragePaginationHelperImpl.java:56)
+	at com.alibaba.nacos.config.server.auth.ExternalUserPersistServiceImpl.getUsers(ExternalUserPersistServiceImpl.java:136)
+	at com.alibaba.nacos.console.security.nacos.users.NacosUserDetailsServiceImpl.getUsersFromDatabase(NacosUserDetailsServiceImpl.java:89)
+	at com.alibaba.nacos.console.security.nacos.users.NacosUserDetailsServiceImpl.reload(NacosUserDetailsServiceImpl.java:55)
+	at sun.reflect.GeneratedMethodAccessor136.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.springframework.scheduling.support.ScheduledMethodRunnable.run(ScheduledMethodRunnable.java:84)
+	at org.springframework.scheduling.support.DelegatingErrorHandlingRunnable.run(DelegatingErrorHandlingRunnable.java:54)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+2021-05-20 11:31:12,038 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@22c0133 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 11:33:36,426 WARN clearConfigHistory start
+
+2021-05-20 11:33:36,797 INFO [capacityManagement] start correct usage
+
+2021-05-20 11:33:37,101 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 11:43:36,416 INFO [capacityManagement] start correct usage
+
+2021-05-20 11:43:36,568 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 11:43:37,286 WARN clearConfigHistory start
+
+2021-05-20 11:53:35,886 INFO [capacityManagement] start correct usage
+
+2021-05-20 11:53:35,944 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 11:53:36,755 WARN clearConfigHistory start
+
+2021-05-20 13:08:46,886 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@717491a4 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 13:41:53,242 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@461f849c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 13:45:19,589 INFO [capacityManagement] start correct usage
+
+2021-05-20 13:45:19,774 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 13:45:20,454 WARN clearConfigHistory start
+
+2021-05-20 13:55:19,088 INFO [capacityManagement] start correct usage
+
+2021-05-20 13:55:19,287 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 13:55:19,967 WARN clearConfigHistory start
+
+2021-05-20 14:05:18,600 INFO [capacityManagement] start correct usage
+
+2021-05-20 14:05:18,847 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 14:05:19,581 WARN clearConfigHistory start
+
+2021-05-20 14:08:13,799 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2ff72d8a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 14:08:46,792 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@2ea96a9d (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 14:15:43,704 INFO [capacityManagement] start correct usage
+
+2021-05-20 14:15:43,982 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 14:15:44,601 WARN clearConfigHistory start
+
+2021-05-20 14:21:13,648 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7435c9b9 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 14:21:24,284 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@7a1a090f (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 14:41:05,849 INFO [capacityManagement] start correct usage
+
+2021-05-20 14:41:05,979 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 14:41:06,741 WARN clearConfigHistory start
+
+2021-05-20 14:45:59,892 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@145af41c (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 14:59:29,320 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@5807f82 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 15:04:24,505 INFO [capacityManagement] start correct usage
+
+2021-05-20 15:04:24,602 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 15:04:25,470 WARN clearConfigHistory start
+
+2021-05-20 15:14:23,916 INFO [capacityManagement] start correct usage
+
+2021-05-20 15:14:24,237 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 15:14:24,969 WARN clearConfigHistory start
+
+2021-05-20 15:24:23,553 INFO [capacityManagement] start correct usage
+
+2021-05-20 15:24:23,828 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 15:24:24,446 WARN clearConfigHistory start
+
+2021-05-20 15:34:23,139 INFO [capacityManagement] start correct usage
+
+2021-05-20 15:34:23,401 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 15:34:24,081 WARN clearConfigHistory start
+
+2021-05-20 15:44:22,712 INFO [capacityManagement] start correct usage
+
+2021-05-20 15:44:22,977 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 15:44:23,697 WARN clearConfigHistory start
+
+2021-05-20 15:48:01,271 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@40725171 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 15:48:05,517 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@27105ef8 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 16:32:48,342 INFO [capacityManagement] start correct usage
+
+2021-05-20 16:32:49,047 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 16:32:49,293 WARN clearConfigHistory start
+
+2021-05-20 16:42:48,362 INFO [capacityManagement] start correct usage
+
+2021-05-20 16:42:48,477 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 16:42:48,783 WARN clearConfigHistory start
+
+2021-05-20 16:52:47,790 INFO [capacityManagement] start correct usage
+
+2021-05-20 16:52:47,837 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 16:52:48,137 WARN clearConfigHistory start
+
+2021-05-20 17:02:47,147 INFO [capacityManagement] start correct usage
+
+2021-05-20 17:02:47,457 WARN clearConfigHistory start
+
+2021-05-20 17:02:50,663 INFO [capacityManagement] end correct usage, cost: 3s
+
+2021-05-20 17:12:47,254 WARN clearConfigHistory start
+
+2021-05-20 17:12:49,978 INFO [capacityManagement] start correct usage
+
+2021-05-20 17:12:50,104 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 17:22:46,677 WARN clearConfigHistory start
+
+2021-05-20 17:22:49,415 INFO [capacityManagement] start correct usage
+
+2021-05-20 17:22:51,114 INFO [capacityManagement] end correct usage, cost: 1s
+
+2021-05-20 17:32:46,384 WARN clearConfigHistory start
+
+2021-05-20 17:32:50,429 INFO [capacityManagement] start correct usage
+
+2021-05-20 17:32:50,547 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 17:42:45,752 WARN clearConfigHistory start
+
+2021-05-20 17:42:49,860 INFO [capacityManagement] start correct usage
+
+2021-05-20 17:42:49,931 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 17:52:45,120 WARN clearConfigHistory start
+
+2021-05-20 17:52:49,244 INFO [capacityManagement] start correct usage
+
+2021-05-20 17:52:49,313 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 18:02:44,480 WARN clearConfigHistory start
+
+2021-05-20 18:02:48,629 INFO [capacityManagement] start correct usage
+
+2021-05-20 18:02:48,719 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 18:20:19,949 WARN clearConfigHistory start
+
+2021-05-20 18:20:24,120 INFO [capacityManagement] start correct usage
+
+2021-05-20 18:20:24,173 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 18:30:19,314 WARN clearConfigHistory start
+
+2021-05-20 18:30:23,487 INFO [capacityManagement] start correct usage
+
+2021-05-20 18:30:23,542 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 18:40:18,663 WARN clearConfigHistory start
+
+2021-05-20 18:40:22,854 INFO [capacityManagement] start correct usage
+
+2021-05-20 18:40:22,922 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 21:49:00,704 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@68d4545b (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 21:49:04,065 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@11a3b38a (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 21:53:59,976 WARN clearConfigHistory start
+
+2021-05-20 21:54:04,187 INFO [capacityManagement] start correct usage
+
+2021-05-20 21:54:04,266 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 21:55:42,431 WARN HikariPool-1 - Failed to validate connection com.mysql.cj.jdbc.ConnectionImpl@1174a241 (No operations allowed after connection closed.). Possibly consider using a shorter maxLifetime value.
+
+2021-05-20 22:22:31,075 WARN clearConfigHistory start
+
+2021-05-20 22:22:35,329 INFO [capacityManagement] start correct usage
+
+2021-05-20 22:22:35,517 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 22:32:30,426 WARN clearConfigHistory start
+
+2021-05-20 22:32:34,830 INFO [capacityManagement] start correct usage
+
+2021-05-20 22:32:34,910 INFO [capacityManagement] end correct usage, cost: 0s
+
+2021-05-20 22:42:29,805 WARN clearConfigHistory start
+
+2021-05-20 22:42:34,226 INFO [capacityManagement] start correct usage
+
+2021-05-20 22:42:34,308 INFO [capacityManagement] end correct usage, cost: 0s
+

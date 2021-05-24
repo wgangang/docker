@@ -1,0 +1,17 @@
+version: "3"
+services:
+  nacos:
+    hostname: nacos
+    container_name: nacos
+    image: nacos/nacos-server:${NACOS_VERSION}
+    environment:
+      - JVM_XMS=256m  #-Xms default :2g
+      - JVM_XMX=256m  
+    volumes:
+      - ./logs/:/home/nacos/logs
+      - ./config/custom.properties:/home/nacos/init.d/custom.properties
+      - ./config/application.properties:/home/nacos/conf/application.properties
+    ports:
+      - "8848:8848"
+    env_file:
+      - ./.env

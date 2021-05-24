@@ -1,0 +1,47 @@
+OpenJDK 64-Bit Server VM warning: MaxNewSize (524288k) is equal to or greater than the entire heap (262144k).  A new max generation size of 261632k will be used.
+
+         ,--.
+       ,--.'|
+   ,--,:  : |                                           Nacos 2.0.1
+,`--.'`|  ' :                       ,---.               Running in cluster mode, All function modules
+|   :  :  | |                      '   ,'\   .--.--.    Port: 8848
+:   |   \ | :  ,--.--.     ,---.  /   /   | /  /    '   Pid: 26
+|   : '  '; | /       \   /     \.   ; ,. :|  :  /`./   Console: http://172.18.0.2:8848/nacos/index.html
+'   ' ;.    ;.--.  .-. | /    / ''   | |: :|  :  ;_
+|   | | \   | \__\/: . ..    ' / '   | .; : \  \    `.      https://nacos.io
+'   : |  ; .' ," .--.; |'   ; :__|   :    |  `----.   \
+|   | '`--'  /  /  ,.  |'   | '.'|\   \  /  /  /`--'  /
+'   : |     ;  :   .'   \   :    : `----'  '--'.     /
+;   |.'     |  ,     .-./\   \  /            `--'---'
+'---'        `--`---'     `----'
+
+2021-05-19 17:20:11,258 INFO The server IP list of Nacos is []
+
+2021-05-19 17:20:12,261 INFO Nacos is starting...
+
+2021-05-19 17:20:13,264 INFO Nacos is starting...
+
+2021-05-19 17:20:14,267 INFO Nacos is starting...
+
+2021-05-19 17:20:15,270 INFO Nacos is starting...
+
+2021-05-19 17:20:16,307 INFO Nacos is starting...
+
+2021-05-19 17:20:17,310 INFO Nacos is starting...
+
+2021-05-19 17:20:18,312 INFO Nacos is starting...
+
+2021-05-19 17:20:19,437 INFO Nacos is starting...
+
+2021-05-19 17:20:20,440 INFO Nacos is starting...
+
+2021-05-19 17:20:21,538 INFO Nacos is starting...
+
+2021-05-19 17:20:22,697 INFO Nacos is starting...
+
+2021-05-19 17:20:23,698 INFO Nacos is starting...
+
+2021-05-19 17:20:24,701 INFO Nacos is starting...
+
+2021-05-19 17:20:25,421 INFO Nacos started successfully in cluster mode. use external storage
+

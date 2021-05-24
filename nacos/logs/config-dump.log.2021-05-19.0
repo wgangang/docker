@@ -1,0 +1,86 @@
+2021-05-19 17:20:21,831 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1620714949000, length=2433, md5=06bc72b47670719572abccd6ca53a54e
+
+2021-05-19 17:20:21,834 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1620678022000, length=2808, md5=f7dac6bbd462bbb90c6e1febdd116925
+
+2021-05-19 17:20:21,836 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1619357537000, length=1119, md5=5d533ee2ee4385a30a752e0ddffcc342
+
+2021-05-19 17:20:21,839 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1620728857000, length=1223, md5=0cfcb05dc61c314e40958cf1f04e2197
+
+2021-05-19 17:20:21,842 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1612187959000, length=1033, md5=9515fa5e1e7c1b39b0599b21c3b5e209
+
+2021-05-19 17:20:21,843 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1611910611000, length=1117, md5=bcd5d345ede997587382aba0fa320e7b
+
+2021-05-19 17:20:21,845 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616422020000, length=1333, md5=63c60ac077501da49b1e4f5e738cce9c
+
+2021-05-19 17:20:21,847 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1620981323000, length=2038, md5=5d7b8be73fcc65e891eff6f2366836ca
+
+2021-05-19 17:20:21,850 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1611058271000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-19 17:20:21,850 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1616136575000, length=1032, md5=02b102f31fa26ffd2aad727e81651988
+
+2021-05-19 17:20:21,852 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1616136591000, length=1119, md5=e0f3e764295ea4d644457d9fa3ceb41c
+
+2021-05-19 17:20:21,853 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1616136605000, length=1224, md5=2bdd9d2a196168b12ab298dd02480092
+
+2021-05-19 17:20:21,854 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1619599422000, length=1171, md5=179faa47e18c47bd74db04090d909cff
+
+2021-05-19 17:20:21,855 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616481512000, length=1274, md5=4b101bb4ed2e72fc104d0ef002fbde69
+
+2021-05-19 17:20:21,856 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1611058496000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-19 17:20:21,858 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1620996505000, length=1792, md5=192fdc3c053ee0c7a41b712233876a85
+
+2021-05-19 17:20:21,859 INFO [dump-all-ok] billbear-mall-goods+DEFAULT_GROUP, 1611069816000, length=1216, md5=9384c34119fa888249c64e74cf257d82
+
+2021-05-19 17:20:21,861 INFO [dump-all-ok] billbear-common-config.yaml+DEFAULT_GROUP, 1618571516000, length=1941, md5=f945cb28cb3616b5131f47bc84aa811f
+
+2021-05-19 17:20:21,862 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1612517017000, length=1772, md5=e1b739b8a92a50da2c54b4fe89ff77bf
+
+2021-05-19 17:20:21,863 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1614692485000, length=1643, md5=8654922af8107e201de116d628e9578f
+
+2021-05-19 17:20:21,864 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1616136634000, length=1772, md5=e5a7b23fa4fbfe036959cfd55a09f7af
+
+2021-05-19 17:20:21,866 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1616136648000, length=1836, md5=bca039eeb51e046ff8720f4fc3b18903
+
+2021-05-19 17:20:21,867 INFO [dump-all-ok] billbear-common-gateway+DEFAULT_GROUP, 1616191128000, length=1617, md5=32ba22b26609c324118772ae4ec549e4
+
+2021-05-19 17:20:21,869 INFO [dump-all-ok] billbear-usercenter+DEFAULT_GROUP, 1616167243000, length=1099, md5=ba9ab8fc03b695a7580ded503b6efc92
+
+2021-05-19 17:20:21,869 INFO [dump-all-ok] billbear-customer+DEFAULT_GROUP, 1616163120000, length=1105, md5=7cea177c596a5a1a5cb2dc0f13730130
+
+2021-05-19 17:20:21,870 INFO [dump-all-ok] billbear-supplier+DEFAULT_GROUP, 1616163150000, length=1297, md5=1293fb08112ea861e9045069bd62af94
+
+2021-05-19 17:20:21,872 INFO [dump-all-ok] billbear-supplychain+DEFAULT_GROUP, 1616180618000, length=1203, md5=2a1438a73491828e205c0c1a627b6a7f
+
+2021-05-19 17:20:21,873 INFO [dump-all-ok] billbear-auth+DEFAULT_GROUP, 1616425020000, length=1335, md5=de58033b80cac20bea2234f164be4eb1
+
+2021-05-19 17:20:21,874 INFO [dump-all-ok] billbear-filecenter+DEFAULT_GROUP, 1615538144000, length=301, md5=ba27cdf11cab47887efc3a97eecc0ee9
+
+2021-05-19 17:20:21,875 INFO [dump-all-ok] billbear-coupon+DEFAULT_GROUP, 1618237799000, length=1149, md5=b0067331e7f59003a91ad0e9e3ce4221
+
+2021-05-19 17:20:21,876 INFO [dump-all-ok] billbear-foodie-first-merchant+DEFAULT_GROUP, 1616514096000, length=1812, md5=feb8af6f3bed90060a7c86f8b8546ca7
+
+2021-05-19 17:20:21,878 INFO [dump-all-ok] billbear-foodie-first-admin+DEFAULT_GROUP, 1616514109000, length=1876, md5=a30eaab39db1f5a6c2d7a5b2c71a0e85
+
+2021-05-19 17:20:21,880 INFO [dump-all-ok] billbear-coupon+DEFAULT_GROUP, 1618237821000, length=1149, md5=b0067331e7f59003a91ad0e9e3ce4221
+
+2021-05-19 17:20:21,881 INFO [dump-all-ok] billbear-order+DEFAULT_GROUP, 1617026628000, length=1030, md5=565039f150607a123ea5c7f871064ea7
+
+2021-05-19 17:20:21,882 INFO [dump-all-ok] billbear-customer-web+DEFAULT_GROUP, 1621233315000, length=1453, md5=c2468d674e940ee1e4b0e0345c4146ce
+
+2021-05-19 17:20:21,883 INFO [dump-all-ok] billbear-customer-web+DEFAULT_GROUP, 1621247481000, length=1453, md5=0d955b8a146d38a0a20b6e3207daa625
+
+2021-05-19 17:20:21,885 INFO [dump-all-ok] billbear-paycenter+DEFAULT_GROUP, 1620650991000, length=1123, md5=8ea16a1d5e6874eadb524527aeb30ccf
+
+2021-05-19 17:20:21,887 INFO [dump-all-ok] billbear-paycenter+DEFAULT_GROUP, 1620651113000, length=1123, md5=7048cf66db584b1cc42fcbb7c9692f5d
+
+2021-05-19 17:20:21,888 INFO [dump-all-ok] billbear-app-gateway+DEFAULT_GROUP, 1620714966000, length=1622, md5=65b61a7d90b971ebaef58015c3ecb256
+
+2021-05-19 17:20:21,890 INFO [dump-all-ok] billbear-app-gateway+DEFAULT_GROUP, 1620833300000, length=2161, md5=00fd1d0abeb71268e1dcde4efe122d39
+
+2021-05-19 17:20:21,891 INFO [dump-all-ok] billbear-authcenter+DEFAULT_GROUP, 1619689881000, length=493, md5=aa0ae9846f8784c76a04061f8bbff426
+
+2021-05-19 17:20:21,892 INFO [dump-all-ok] billbear-authcenter+DEFAULT_GROUP, 1620316075000, length=474, md5=e4cb9eaf5e4662657ebe1dc185d5bcda
+
+2021-05-19 17:20:21,893 INFO [dump-all-ok] xxl-job-admin+DEFAULT_GROUP, 1620922103000, length=2200, md5=29b40c917cacea1c72e941e67e06af8d
+

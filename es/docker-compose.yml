@@ -1,0 +1,42 @@
+version: "3"
+services:
+  elasticsearch-central:
+    container_name: es-master1
+    image: elasticsearch:${ES_VERSION}
+    environment:
+      - TZ='Asia/Shanghai'
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    volumes:
+      - ${MASTER1_BASE_DIR}/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+      - ${MASTER1_BASE_DIR}/data:/usr/share/elasticsearch/data
+      - ${MASTER1_BASE_DIR}/logs:/usr/share/elasticsearch/logs
+      - ${MASTER1_BASE_DIR}/plugins:/usr/share/elasticsearch/plugins
+    ports:
+      - 9200:9200
+      - 9300:9300
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    env_file:
+      - ./.env
+  elasticsearch-data:
+    container_name: es-data1
+    image: elasticsearch:${ES_VERSION}
+    volumes:
+      - ${DATA1_BASE_DIR}/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
+      - ${DATA1_BASE_DIR}/data:/usr/share/elasticsearch/data
+      - ${DATA1_BASE_DIR}/logs:/usr/share/elasticsearch/logs
+      - ${DATA1_BASE_DIR}/plugins:/usr/share/elasticsearch/plugins
+    environment:
+      - TZ='Asia/Shanghai'
+      - "ES_JAVA_OPTS=-Xms512m -Xmx512m"
+    ports:
+      - "9201:9200"
+      - "9301:9300"
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    links:
+      - elasticsearch-central:es-master1
